@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticeSetJam2</string>
+    <string name="quantityLabel">Quantity</string>
+    <string name="quantity">2</string>
+    <string name="price">Price</string>
+    <string name="cost">10$</string>
+</resources>
